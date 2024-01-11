@@ -1,11 +1,29 @@
 - 👋 Hi, I’m @Jossyboydgenius
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Ethical Hacker • Pen tester • Programmer • Cyber & Web dev • Web, graphic & logo design • AI/ML • Social media marketer.
+- 🌱 I’m currently learning Flutter dev.
+- 💞️ I’m looking to collaborate on any project
 
 <!---
-Jossyboydgenius/Jossyboydgenius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+About Me
+Greetings, fellow developers and tech enthusiasts! 👋
+
+I go by the name Technophilia, and I wear many hats in the vast realm of technology. I am a Hacker, Programmer, Cyber & Web Developer, and an enthusiast in Web, Graphic, and Logo Design. My interests also extend to the exciting fields of Artificial Intelligence (AI) and Machine Learning (ML).
+
+My journey in the tech world is fueled by a deep passion for innovation. I find joy in transforming tech dreams into reality, and I believe in the power of technology to shape the future.
+
+What I Do:
+Ethical Hacker
+Penetration Tester
+Programmer
+Cyber & Web Developer
+Web, Graphic, and Logo Designer
+AI/ML Enthusiast
+Social Media Marketer
+Whether it's diving into the intricacies of cybersecurity, crafting elegant code, designing visually stunning graphics, or exploring the frontiers of AI, I'm always eager to push boundaries and explore new horizons.
+
+Let's connect, collaborate, and make the tech world an even more exciting place! 💻✨
+
+Cheers,
+TechApostle 💯
 --->
-I'll come back here and change alot of things, but let it be like this for now.
