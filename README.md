@@ -22,6 +22,6 @@ Whether it's diving into the intricacies of cybersecurity, crafting elegant code
 
 Let's connect, collaborate, and make the tech world an even more exciting place! 💻✨
 
-Cheers,
+Cheers, 
 TechApostle 💯
 --->
