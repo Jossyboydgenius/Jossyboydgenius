@@ -14,7 +14,7 @@ What I Do:
 Ethical Hacker
 Penetration Tester
 Programmer
-Cyber & Web Developer
+Fluuter, Cyber & Web Developer
 Web, Graphic, and Logo Designer
 AI/ML Enthusiast
 Social Media Marketer
