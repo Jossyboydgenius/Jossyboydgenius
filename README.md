@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project.
   
 <---
-About Me.
+About Me,
 Greetings, fellow developers and tech enthusiasts! 👋
 
 I go by the name TechApostle, and I wear many hats in the vast realm of technology. I am a Hacker, Programmer, Flutter, Cyber & Web Developer, and an enthusiast in Web, Graphic, and Logo Design. My interests also extend to the exciting fields of Artificial Intelligence (AI) and Machine Learning (ML).
