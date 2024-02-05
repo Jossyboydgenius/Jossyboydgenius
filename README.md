@@ -19,7 +19,7 @@ Flutter, Cyber & Web Developer,
 Web, Graphic, and Logo Designer,
 AI/ML Enthusiast,
 Social Media Marketer,
-Whether it's diving into the intricacies of cybersecurity, crafting elegant code, flutter, designing visually stunning graphics, or exploring the frontiers of AI, I'm always eager to push boundaries and explore new horizons.
+Whether it's diving into the intricacies of cybersecurity, crafting elegant code, flutter dev (cross-platform), designing visually stunning graphics, or exploring the frontiers of AI, I'm always eager to push boundaries and explore new horizons.
 
 Let's connect, collaborate, and make the tech world an even more exciting place! 💻✨
 
