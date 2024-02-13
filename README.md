@@ -10,7 +10,7 @@ Coding is fun!!!
 
 * 🌍  I'm based in Nigeria.
 * ✉️  You can contact me at [jossyboydgenius@gmail.com](mailto:jossyboydgenius@gmail.com)
-* 🚀  I'm currently working on [Calculator App](http://github.com/Jossyboydgenius/calculator_app)
+* 🚀  I'm currently working on something amazing, I can't disclose it yet. I'm sorry. 😞
 * 🧠  I'm learning Flutter.
 * 🤝  I'm open to collaborating on any interesting projects.
 * ⚡  I'm called TechApostle.
