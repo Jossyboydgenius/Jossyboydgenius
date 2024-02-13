@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jossyboydgenius
+- 👋 Hi, I’m JOSEPH
 - 👀 I’m interested in Ethical Hacker • Pen tester • Programmer • Flutter, Cyber, & Web dev • Web, graphic & logo design • AI/ML • Social media marketer.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on any project.
@@ -43,4 +43,4 @@ TechApostle. 💯
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jossyboydgenius)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JossyBoydGenius-blue)](https://www.linkedin.com/in/awe.josepholaitan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JossyBoydGenius-blue)](https://www.linkedin.com/in/awejosepholaitan/)
