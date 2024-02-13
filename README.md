@@ -38,9 +38,5 @@ TechApostle. 💯
 
 **Languages and Tools:**
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jossyboydgenius&layout=compact)](https://github.com/jossyboydgenius)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jossyboydgenius)](https://github.com/jossyboydgenius)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jossyboydgenius)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JossyBoydGenius-blue)](https://www.linkedin.com/in/awejosepholaitan/)
