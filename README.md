@@ -43,4 +43,4 @@ TechApostle. 💯
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jossyboydgenius)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JossyBoydGenius-blue)](https://www.linkedin.com/in/jossyboydgenius/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JossyBoydGenius-blue)](https://www.linkedin.com/in/awe.josepholaitan/)
