@@ -1,6 +1,6 @@
-https://www.canva.com/design/DAF5m3yQ5P4/mxJBIFPmfktdON4wKKEwBw/watch
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Awe Joseph
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Awe Joseph
 ==================================================================================================================================
 
 Flutter, Cyber and Web Developer!
