@@ -33,7 +33,6 @@ TechApostle. 💯
 [![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jossyboydgenius&show_icons=true&theme=radical)](https://github.com/jossyboydgenius)
 
 **Languages and Tools:**
