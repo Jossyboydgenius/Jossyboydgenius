@@ -1,6 +1,21 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Awe Joseph
+==================================================================================================================================
+
+Flutter, Cyber and Web Developer!
+---------------------------------
+
+Coding is fun!!!
+
+* 🌍  I'm based in Nigeria.
+* ✉️  You can contact me at [jossyboydgenius@gmail.com](mailto:jossyboydgenius@gmail.com)
+* 🚀  I'm currently working on [Calculator App](http://github.com/Jossyboydgenius/calculator_app)
+* 🧠  I'm learning Flutter.
+* 🤝  I'm open to collaborating on any interesting projects.
+* ⚡  I'm called TechApostle.
 <a href="https://www.x.com/Kiss_johzzy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
+
 ### Skills
 
 <p align="left">
@@ -24,7 +39,7 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 
 <b>Top Repositories</b>
 
-<div width="200%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
