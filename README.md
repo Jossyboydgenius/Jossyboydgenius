@@ -41,7 +41,6 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 
 <p align="left">
 <a href="https://codepen.io/jossyboydgenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jossyboydgenius" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/awejosepholaitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awejosepholaitan" height="30" width="40" /></a>
 <a href="https://hashnode.com/@techapostle" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/hasnode.png" alt="@techapostle" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/techapostle" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/Codechef.jpeg" alt="techapostle" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jossyboydgenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jossyboydgenius" height="30" width="40" /></a>
