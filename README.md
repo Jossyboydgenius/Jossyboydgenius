@@ -95,6 +95,8 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/jossyboydgenius"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-                      
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jossyboydgenius&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+                     
 
 
