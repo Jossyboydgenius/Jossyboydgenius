@@ -48,7 +48,7 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 <a href="https://www.leetcode.com/jossyboydgenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jossyboydgenius" height="30" width="30" /></a>
 <a href="https://www.hackerearth.com/@jossyboydgenius" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/hackerearth.png" alt="@jossyboydgenius" height="30" width="30" /></a>
 <a href="https://www.topcoder.com/members/techapostle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="techapostle" height="30" width="40" /></a>
-<a href="https://discord.gg/femijay#8966" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/discord.png" alt="femijay#8966" height="30" width="40" /></a>
+<a href="https://discord.gg/femijay#8966" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/discord-removebg-preview.png" alt="femijay#8966" height="30" width="40" /></a>
 </p>
 
 ## Socials:
