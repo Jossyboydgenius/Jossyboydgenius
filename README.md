@@ -51,7 +51,7 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 <a href="https://discord.gg/femijay#8966" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/discord.png" alt="femijay#8966" height="30" width="40" /></a>
 </p>
 
-### Socials:
+## Socials:
 
 <a href="https://www.linkedin.com/in/awejosepholaitan/" target="_blank" rel="noreferrer">
     <picture>
