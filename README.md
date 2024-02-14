@@ -55,9 +55,8 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 
 <a href="https://www.linkedin.com/in/awejosepholaitan/" target="_blank" rel="noreferrer">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/Linkedin.png" />
+        <img src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/Linkedin.png" width="32" height="32" />
     </picture>
 </a>
 <a href="https://www.facebook.com/awe.josepholaitan" target="_blank" rel="noreferrer">
