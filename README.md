@@ -46,7 +46,7 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/12.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/Codechef.jpeg" />
-      <img width="30" height="30" align="center" />
+      <img width="40" height="30" align="center" />
     </picture>
   </a>
 <a href="https://www.hackerrank.com/jossyboydgenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jossyboydgenius" height="30" width="40" /></a>
