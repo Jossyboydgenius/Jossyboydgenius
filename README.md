@@ -18,6 +18,9 @@ Coding is fun!!!
 <a href="https://www.x.com/Kiss_johzzy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
+<a href="https://www.linkedin.com/in/awejosepholaitan/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0077B5&labelColor=1c1917" />
+</a>
 
 ### Languages and Tools:
 
@@ -46,7 +49,7 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/12.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/Codechef.jpeg" />
-      <img width="40" height="30" align="center" />
+      <img width="35" height="30" align="center" />
     </picture>
   </a>
 <a href="https://www.hackerrank.com/jossyboydgenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jossyboydgenius" height="30" width="40" /></a>
