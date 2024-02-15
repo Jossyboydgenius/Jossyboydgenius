@@ -70,7 +70,7 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 </a>
 <a href="https://www.facebook.com/awe.josepholaitan" target="_blank" rel="noreferrer">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/Socials%20logo%20.gif" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/7.png" />
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/3.png" />
         <img width="32" height="32" alt="Facebook Icon" />
     </picture>
