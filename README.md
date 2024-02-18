@@ -42,7 +42,6 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 
 ## Connect with me:
 
-
 <a href="https://codepen.io/jossyboydgenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jossyboydgenius" height="30" width="40" /></a>
 <a href="https://hashnode.com/@techapostle" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/hasnode.png" alt="@techapostle" height="30" width="30" /></a>
   <a href="https://www.codechef.com/users/techapostle" target="_blank" rel="noreferrer">
