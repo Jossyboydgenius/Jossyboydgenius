@@ -1,7 +1,7 @@
 Hi,
 
 My name is Awe Joseph.
-Flutter, Cyber & Web Developer!
+I'm a Flutter, Cyber & Web Developer!
 
 Coding is fun!!!
 
