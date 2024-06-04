@@ -1,5 +1,4 @@
-Hello!
-
+Hi,
 My name is Awe Joseph.
 Flutter, Cyber & Web Developer!
 
