@@ -22,6 +22,10 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0077B5&labelColor=1c1917" />
 </a>
 
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25160%26project%3D%26in=0)](https://codetime.dev)
+
+[![wakatime](https://wakatime.com/badge/user/018ec88a-b28f-402c-8c00-3f5e5389e0a8.svg)](https://wakatime.com/@018ec88a-b28f-402c-8c00-3f5e5389e0a8)
+
 ### Languages and Tools:
 
 <p align="left">
