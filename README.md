@@ -129,4 +129,4 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jossyboydgenius&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
 
-![Banner1](https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/%5BAnimated%20gif%202%5D%20Awe%20Joseph.gif?raw=true)
+![Banner1](https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Awe%20Joseph-2.gif?raw=true)
