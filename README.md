@@ -1,7 +1,11 @@
 ![MasterHead](https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Awe%20Joseph.gif?raw=true)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Awe Joseph
-========================================================================================================================================================
+=
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+👋%2C+I'm+TechApostle;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</h1>
+
 I'm a Fullstack Software Engineer, Web Developer & Cybersecurity Expert!
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
