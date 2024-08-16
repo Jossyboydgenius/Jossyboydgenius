@@ -1,10 +1,10 @@
 ![MasterHead](https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Awe%20Joseph.gif?raw=true)
 
-**Hello there!** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+**Hi** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 **I'm Awe Joseph.**
 =
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!🎉" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!+🎉" alt="Typing Animation" />
 </h1>
 
 ### I'm a Fullstack Software Engineer 👨‍💻, Web Developer 🌐, and Cybersecurity Expert! 🔐
