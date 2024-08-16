@@ -1,21 +1,17 @@
+![MasterHead](https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Awe%20Joseph.gif?raw=true)
+
 <div align="center">
     <h1>
         Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="35"/>  
         <br>
-        I'm Awe Joseph.
+     I'm Awe Joseph.
     </h1>
 </div>
 
-<div align="center">
-    <picture>
-        <!-- Small screens (mobile) -->
-        <source media="(max-width: 480px)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=350&height=50&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!" />
-        <!-- Medium screens (tablets) -->
-        <source media="(max-width: 768px)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!" />
-        <!-- Default (larger screens) -->
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
-    </picture>
-</div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=80&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</h1>
 
 <h3 align="center">
     I'm a fullstack Software Engineer 👨‍💻, Web Developer 🌐, and Cybersecurity Expert! 🔐
