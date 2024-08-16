@@ -4,7 +4,7 @@
 **I'm Awe Joseph.**
 =
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!🎉" alt="Typing Animation" />
 </h1>
 
 ### I'm a Fullstack Software Engineer 👨‍💻, Web Developer 🌐, and Cybersecurity Expert! 🔐
