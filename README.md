@@ -2,12 +2,16 @@
 
 <div align="center">
     <h1>
-        Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="30"/>  
+        Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="35"/>  
         <br>
-        I'm Awe Joseph.
+     I'm Awe Joseph.
     </h1>
 </div>
 
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=85&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</h1>
 
 <h3 align="center">
     I'm a fullstack Software Engineer 👨‍💻, Web Developer 🌐, and Cybersecurity Expert! 🔐
