@@ -21,7 +21,6 @@
     Feel free to explore my projects, and let’s connect to innovate and build the future together!
 </p>
 
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 * 🌍  I'm based in Nigeria.
 * ✉️  You can contact me at [jossyboydgenius@gmail.com](mailto:jossyboydgenius@gmail.com)
