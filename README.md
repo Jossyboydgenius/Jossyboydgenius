@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Banner.gif?raw=true)
+was![MasterHead](https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Banner.gif?raw=true)
+
 
 
 <div align="center">
