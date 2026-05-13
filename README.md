@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Banner.gif?raw=true)
 
-
 <div align="center">
     <h1>
         Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="35"/>  
@@ -19,7 +18,7 @@
 </h3>
 
 <p align="center">
-    Welcome to my digital portfolio where code meets creativity and security.<br>
+    Welcome to my digital portfolio, where code meets creativity and security.<br>
     Feel free to explore my projects, and let’s connect to innovate and build the future together!
 </p>
 
