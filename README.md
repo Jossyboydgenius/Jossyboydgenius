@@ -13,7 +13,7 @@
 </h1>
 
 <h3 align="center">
-    I'm a fullstack Software Engineer 👨‍💻, Web Developer 🌐, and Cybersecurity Expert! 🔐
+    I'm a full-stack Software Engineer 👨‍💻, Web Developer 🌐, and Cybersecurity Expert! 🔐
 </h3>
 
 <p align="center">
@@ -192,7 +192,6 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jossyboydgenius&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </div>
-
 
 </ul>
 
